@@ -4,6 +4,9 @@ body {
     background-color: #F2FFFC;
     line-height: 1.5;
 }
+header{
+    text-align: center;
+}
 em {
     font-style: italic;
 }
