@@ -1,7 +1,6 @@
 body {
     font-family: "Crimson Text", "Times New Roman", serif;
     background-color: #F2FFFC;
-    font-size: 110%;
     line-height: 1.5;
     margin: 0;
 }
@@ -13,18 +12,18 @@ main{
 
 h2 {
     font-family: "Open Sans Condensed", "Arial", sans-serif;
-    font-size: 30px;
+    font-size: 1.875em;
     clear: both;
 }
 
 .container{
     width: 720px;
     margin: auto;
-    padding-bottom: 80px;
+    padding-bottom: 5em;
 }
 
 .titulo {
-    font-size: 60px;
+    font-size: 3.75em;
     text-align: center;
     background-color: #851944;
     color: #FFF;
